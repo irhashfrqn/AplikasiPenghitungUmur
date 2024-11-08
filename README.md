@@ -1,9 +1,10 @@
 # Fitur Utama
 Aplikasi Penghitung Umur
 
-Hari Ulang Tahun Berikutnya
+
 # Fitur Tambahan (Variasi)
 Data Peristiwa Global yang diambil dari API URL
+Hari Ulang Tahun Berikutnya
 
 # Biodata Pembuat
 Nama : Muhammad Irhash Furqan
